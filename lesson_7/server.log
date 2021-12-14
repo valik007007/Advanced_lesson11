@@ -1,0 +1,100 @@
+2021-12-07 15:16:25 ERROR UserDaoImpl:162 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-07 15:18:31 ERROR UserDaoImpl:162 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-07 16:05:00 ERROR UserDaoImpl:162 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-07 16:05:01 ERROR UserDaoImpl:162 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-07 16:05:06 ERROR UserDaoImpl:162 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-07 16:05:08 ERROR UserDaoImpl:162 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-07 16:05:08 ERROR UserDaoImpl:162 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-07 16:05:14 ERROR UserDaoImpl:162 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-07 16:05:16 ERROR UserDaoImpl:162 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-07 16:05:17 ERROR UserDaoImpl:162 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-07 16:12:18 ERROR UserDaoImpl:162 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-07 16:18:06 ERROR UserDaoImpl:162 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-07 17:21:01 ERROR UserDaoImpl:162 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-09 10:27:52 ERROR UserDaoImpl:162 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-09 10:27:53 ERROR UserDaoImpl:162 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-09 10:27:53 ERROR UserDaoImpl:162 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-09 10:27:53 ERROR UserDaoImpl:162 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-09 10:27:53 ERROR UserDaoImpl:162 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-09 10:27:54 ERROR UserDaoImpl:162 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-09 11:51:53 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 10:50:32 ERROR ProductDaoImpl:128 - java.sql.SQLException: Column 'purchase_price' not found.
+2021-12-11 10:51:39 ERROR ProductDaoImpl:128 - java.sql.SQLException: Column 'purchase_price' not found.
+2021-12-11 10:51:42 ERROR ProductDaoImpl:128 - java.sql.SQLException: Column 'purchase_price' not found.
+2021-12-11 11:00:19 ERROR ProductDaoImpl:128 - java.sql.SQLException: Column 'purchase_price' not found.
+2021-12-11 11:06:20 ERROR ProductDaoImpl:128 - java.sql.SQLException: Column 'purchase_price' not found.
+2021-12-11 11:06:23 ERROR ProductDaoImpl:128 - java.sql.SQLException: Column 'purchase_price' not found.
+2021-12-11 11:08:39 ERROR ProductDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'price' in 'field list'
+2021-12-11 11:08:45 ERROR ProductDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'price' in 'field list'
+2021-12-11 11:11:19 ERROR ProductDaoImpl:128 - java.sql.SQLException: Column 'purchase_price' not found.
+2021-12-11 11:15:19 ERROR ProductDaoImpl:128 - java.sql.SQLException: Column 'purchase_price' not found.
+2021-12-11 11:15:21 ERROR ProductDaoImpl:128 - java.sql.SQLException: Column 'purchase_price' not found.
+2021-12-11 11:15:23 ERROR ProductDaoImpl:128 - java.sql.SQLException: Column 'purchase_price' not found.
+2021-12-11 11:15:33 ERROR ProductDaoImpl:128 - java.sql.SQLException: Column 'purchase_price' not found.
+2021-12-11 11:54:57 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 11:55:06 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 16:54:37 ERROR BucketDaoImpl:51 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`i_shop`.`bucket`, CONSTRAINT `bucket_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `user` (`id`))
+2021-12-11 16:54:47 ERROR BucketDaoImpl:51 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`i_shop`.`bucket`, CONSTRAINT `bucket_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `user` (`id`))
+2021-12-11 16:55:33 ERROR BucketDaoImpl:51 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`i_shop`.`bucket`, CONSTRAINT `bucket_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `user` (`id`))
+2021-12-11 16:56:18 ERROR ProductDaoImpl:76 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 16:57:05 ERROR BucketDaoImpl:51 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`i_shop`.`bucket`, CONSTRAINT `bucket_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `user` (`id`))
+2021-12-11 17:08:05 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 17:08:10 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:32:52 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
+2021-12-11 18:32:58 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:33:19 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:34:13 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:34:45 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
+2021-12-11 18:34:54 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:35:09 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:36:17 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
+2021-12-11 18:36:24 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:37:45 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:38:04 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
+2021-12-11 18:38:34 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:40:40 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:41:01 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
+2021-12-11 18:41:48 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:43:37 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
+2021-12-11 18:43:58 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:45:30 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:45:47 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
+2021-12-11 18:46:25 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:46:43 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
+2021-12-11 18:46:49 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:48:16 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
+2021-12-11 18:48:33 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:49:08 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
+2021-12-11 18:49:16 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:50:51 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:51:02 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
+2021-12-11 18:51:10 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:52:06 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:52:28 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
+2021-12-11 18:52:47 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:53:12 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 18:54:21 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
+2021-12-11 18:54:53 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 19:12:51 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
+2021-12-11 19:12:58 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 19:13:21 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 19:13:43 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 19:14:36 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
+2021-12-11 19:15:12 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 19:16:55 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 19:17:00 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 19:17:11 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
+2021-12-11 19:17:18 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 19:17:29 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 19:18:55 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 19:19:08 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
+2021-12-11 19:19:15 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 19:19:41 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 19:20:21 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 19:20:47 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
+2021-12-11 19:23:13 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
+2021-12-11 19:23:51 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
+2021-12-11 19:24:28 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 19:26:48 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
+2021-12-11 19:27:09 ERROR UserDaoImpl:149 - java.sql.SQLException: Illegal operation on empty result set.
+2021-12-11 19:29:22 ERROR UserDaoImpl:50 - java.sql.SQLSyntaxErrorException: Unknown column 'password' in 'field list'
